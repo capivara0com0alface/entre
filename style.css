@@ -31,6 +31,10 @@ body{
     position: absolute;
     bottom: 1%;
     left: 0%;
+    
+}
+
+.fotn{
     font-family: "Karma", serif;
   font-weight: 300;
   font-style: normal;
