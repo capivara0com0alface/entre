@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Karma:wght@300;400;500;600;700&family=Stardos+Stencil:wght@400;700&display=swap');
+
 body{
-    background: linear-gradient(to right, #306736, #26632d);
+    background: -moz-radial-gradient(color);
     min-height: 100vh;
     display: flex;
     align-items: center;
@@ -19,12 +21,16 @@ body{
 .btn-voltar-inicio{
     display: block;
     padding: 1rem;
-    background: #000046;
+    background: #ffffff;
     color: #fff;
-    font: inherit;
-    text-transform: uppercase;
     border: none;
-    border-radius: 8px;
-    cursor: pointer;
+    border-radius: 36px;
+    /* cursor: pointer; */
     transition: 0.2s;
+    position: absolute;
+    bottom: 1%;
+    left: 0%;
+    font-family: "Karma", serif;
+  font-weight: 300;
+  font-style: normal;
 }
