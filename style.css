@@ -35,8 +35,15 @@ body{
 }
 
 .fotn{
-    font-family: "Karma", serif;
+  font-family: "Karma", serif;
   font-weight: 300;
   font-style: normal;
   color: black;
 }
+
+.Entrar{
+    font-family: "Karma", serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #ffffff;
+  }
