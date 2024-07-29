@@ -98,11 +98,6 @@ body{
     transition: 0.2s;
 }
 
-.font{
-    font-family: "Karma", serif;
-  font-weight: 300;
-  font-style: normal;
-}
 
 .form label, .form input, .form textarea, .form button {
     display: block;
