@@ -160,6 +160,12 @@ body{
         right: 32%;
         top: 3%;
     }
+
+    .star2 {
+        width: 16%;
+        position: absolute;
+        top: 0%;
+        left: -4%;
 }
 
 
