@@ -158,7 +158,22 @@ body{
     }
 }
 
+@media screen and (min-width: 1440px){
+    .star {
+        width: 36%;
+        position: absolute;
+        right: 28%;
+        top: 11%;
+    }
 
+    .star2 {
+        width: 16%;
+        position: absolute;
+        top: 0%;
+        left: -4%;
+    }
+
+}
 @media screen and (min-width: 1700px){
     .star{
         width: 36%;
