@@ -108,6 +108,9 @@ body{
 
 .star{
     width: 36%;
+        position: absolute;
+        right: 30%;
+        top: 12%;
 }
 
 .star2{
