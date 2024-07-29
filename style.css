@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Karma:wght@300;400;500;600;700&family=Stardos+Stencil:wght@400;700&display=swap');
 
+@media screen and (min-width: 1440px){
 body{
 
     background-color:#243A2D; ;
@@ -115,7 +116,7 @@ body{
     top: 4%;
     left: -4%;
 }
-
+}
 
 @media screen and (min-width: 425px){
     .star2 {
@@ -134,6 +135,7 @@ body{
     font-family: "Karma", serif;
     font-weight: 600;
     font-style: normal;
+}
 }
 
 .star {
