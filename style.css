@@ -153,5 +153,12 @@ body{
     font-style: normal;
 }
 
+.star {
+    width: 70%;
+    position: absolute;
+    right: -111px;
+    top: 24%;
+}
+
 }
 
