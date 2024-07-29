@@ -116,24 +116,7 @@ body{
     left: -4%;
 }
 
-@media screen and (min-width: 1024px){
-    .star{
-        width: 36%;
-    position: absolute;
-    right: 99px;
-    top: 17%;
-    }
-}
 
-
-@media screen and (min-width: 1700px){
-    .star{
-        width: 36%;
-        position: absolute;
-        right: 32%;
-        top: 3%;
-    }
-}
 @media screen and (min-width: 425px){
     .star2 {
         width: 16%;
@@ -159,6 +142,26 @@ body{
     right: -111px;
     top: 24%;
 }
+
+@media screen and (min-width: 1024px){
+    .star{
+        width: 36%;
+    position: absolute;
+    right: 99px;
+    top: 17%;
+    }
+}
+
+
+@media screen and (min-width: 1700px){
+    .star{
+        width: 36%;
+        position: absolute;
+        right: 32%;
+        top: 3%;
+    }
+}
+
 
 }
 
