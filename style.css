@@ -86,3 +86,8 @@ body{
     cursor: pointer;
     transition: 0.2s;
 }
+
+.form label, .form input, .form textarea, .form button {
+    display: block;
+    width: 100%;
+}
