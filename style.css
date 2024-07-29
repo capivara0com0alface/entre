@@ -52,7 +52,13 @@ body{
     width: 100%;
     max-width: 32rem;
     font-size: 1.125rem;
+    position: absolute;
+    left: 7%;
+    font-family: "Karma", serif;
+  font-weight: 300;
+  font-style: normal;
 }
+
 
 .form label {
     color: #fff;
