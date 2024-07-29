@@ -134,3 +134,24 @@ body{
         top: 3%;
     }
 }
+@media screen and (min-width: 425px){
+    .star2 {
+        width: 16%;
+        position: absolute;
+        top: 22%;
+        left: -4%;
+    }
+
+        .form{
+    width: 69%;
+    max-width: 32rem;
+    font-size: 1.125rem;
+    position: absolute;
+    left: 6%;
+    font-family: "Karma", serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+}
+
