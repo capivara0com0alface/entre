@@ -129,5 +129,8 @@ body{
 @media screen and (min-width: 1700px){
     .star{
         width: 36%;
+        position: absolute;
+        right: 32%;
+        top: 3%;
     }
 }
